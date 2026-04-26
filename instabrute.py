@@ -63,7 +63,7 @@ print "* Priv8 Inastgarm Brute forcer        *"
 print "* Coded by N3TC@T                     *"
 print "* netcat[dot]av[at]gmail[dot]com      *"
 print "***************************************"
-print "[+] Username Loaded:",USER
+print "[+] Username Loaded:"zerochillfuckmachine 
 print "[+] Words Loaded:",len(words)
 print "[+] Proxy Loaded:",len(proxys)
 
